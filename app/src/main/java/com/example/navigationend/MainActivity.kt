@@ -1,5 +1,7 @@
 package com.example.navigationend
 
+import HomeScreen
+import SecondScreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
